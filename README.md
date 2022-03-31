@@ -6,7 +6,7 @@ In these tasks, the goal was to complete tasks with a recursive function, these 
 
 ### Tasks
 1. Factorial of entered number
-```
+```java
 public int factorial(int num){
     if (num >= 1)
         return num * factorial(num-1);
